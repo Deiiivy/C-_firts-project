@@ -1,0 +1,14 @@
+/home/deivy/zDev/c#-projects/firts-project-with-c#/bin/Debug/net8.0/firts-project-with-c#
+/home/deivy/zDev/c#-projects/firts-project-with-c#/bin/Debug/net8.0/firts-project-with-c#.deps.json
+/home/deivy/zDev/c#-projects/firts-project-with-c#/bin/Debug/net8.0/firts-project-with-c#.runtimeconfig.json
+/home/deivy/zDev/c#-projects/firts-project-with-c#/bin/Debug/net8.0/firts-project-with-c#.dll
+/home/deivy/zDev/c#-projects/firts-project-with-c#/bin/Debug/net8.0/firts-project-with-c#.pdb
+/home/deivy/zDev/c#-projects/firts-project-with-c#/obj/Debug/net8.0/firts-project-with-c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/deivy/zDev/c#-projects/firts-project-with-c#/obj/Debug/net8.0/firts-project-with-c#.AssemblyInfoInputs.cache
+/home/deivy/zDev/c#-projects/firts-project-with-c#/obj/Debug/net8.0/firts-project-with-c#.AssemblyInfo.cs
+/home/deivy/zDev/c#-projects/firts-project-with-c#/obj/Debug/net8.0/firts-project-with-c#.csproj.CoreCompileInputs.cache
+/home/deivy/zDev/c#-projects/firts-project-with-c#/obj/Debug/net8.0/firts-project-with-c#.dll
+/home/deivy/zDev/c#-projects/firts-project-with-c#/obj/Debug/net8.0/refint/firts-project-with-c#.dll
+/home/deivy/zDev/c#-projects/firts-project-with-c#/obj/Debug/net8.0/firts-project-with-c#.pdb
+/home/deivy/zDev/c#-projects/firts-project-with-c#/obj/Debug/net8.0/firts-project-with-c#.genruntimeconfig.cache
+/home/deivy/zDev/c#-projects/firts-project-with-c#/obj/Debug/net8.0/ref/firts-project-with-c#.dll

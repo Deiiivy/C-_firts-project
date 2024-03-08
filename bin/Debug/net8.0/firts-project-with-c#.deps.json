@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "firts-project-with-c#/1.0.0": {
+        "runtime": {
+          "firts-project-with-c#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "firts-project-with-c#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
